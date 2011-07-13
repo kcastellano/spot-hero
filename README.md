@@ -20,7 +20,9 @@ Design of the solution
 
 To achieve the main purpose the project used four SunSPOTs. Three free range SPOTs, one for the strum, one for the pocket and one for the neck, and to record the strum and position values a base station was used.
 For the strumming process there was a free range Spot moving upwards and downwards (accelerometer) called Pick that emulated the hand movements in the Guitar. The only axis that was taken to notice was the Z, and the values had to be below 0.5.
+
 To determine the tone and note there were two free range Spots called Guitar Neck and a Pocket. To establish the position in the fret the radio and RSSI was used between both of the SPOTS so the more closer they were the tone was higher and the farthest they were there was the lower.
+
 To record the fret value and the strum there is a Host Application running with a base station. What it does is when the strumming is done it sends the tilt to the base and it records the RSSI between the Neck and the Pocket so it can determine in a range of values the tone and the note it needs to play.
 
 Testing
