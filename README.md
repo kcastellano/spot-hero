@@ -1,11 +1,11 @@
 Spot Hero
 =========
 
-Music has always been a way to express our feelings and thoughts. Even thou some people don’t have the abilities to play a real instrument, they always could try to develop some skills in games that emulate the music playing. Such games as Guitar Hero or Rock Band present the opportunity to simplify the act of learning how to do the basic hand movements or understanding the rhythm that leads to almost mastering an instrument.
+Music has always been a way to express our feelings and thoughts. Even though some people don’t have the abilities to play a real instrument, they always could try to develop some skills in games that emulate the music playing. Such games as Guitar Hero or Rock Band present the opportunity to simplify the act of learning how to do the basic hand movements or understanding the rhythm that leads to almost mastering an instrument.
 
 Therefore, the purpose of this project is to present a much easier way to learn and play several notes by using Java SunSPOTs. By understanding the limitations and the qualities of the SPOTs the project tries to emulate in the most real way the music playing process by making the player strum different notes in different tones by moving several of the SPOTs.
 
-Spot Hero is the final project for the NCSU/UCAB Summer Practicum in Computer Science for 2010. The project was developed in 48 hours.
+Spot Hero is the final project for the NCSU/UCAB Summer Practicum in Computer Science for 2010. The project was developed in 2 days. Slides of the project presentation are [available](https://speakerdeck.com/u/jonotrujillo/p/spot-hero).
 
 Project Requirements
 --------------------
