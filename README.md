@@ -4,7 +4,7 @@ Music has always been a way to express our feelings and thoughts. Even though so
 
 The purpose of this project is to present a much easier way to learn and play several notes by using Java SunSPOTs. By understanding the limitations and the qualities of the SPOTs the project tries to emulate in the most real way the music playing process by making the player strum different notes in different tones by moving several of the SPOTs.
 
-Spot Hero is the final project for the NCSU/UCAB Summer Practicum in Computer Science for 2010, developed by [Khaterine Castellano](https://github.com/kcastellano) and [Jonathan Trujillo](https://github.com/jonotrujillo). Project presentation [slides](https://speakerdeck.com/u/jonotrujillo/p/spot-hero) are available.
+Spot Hero is the final project for the NCSU/UCAB Summer Practicum in Computer Science for 2010, developed by [Khaterine Castellano](https://github.com/kcastellano) and [Jonathan Trujillo](https://github.com/jonotrujillo).
 
 ##Project Requirements
 
